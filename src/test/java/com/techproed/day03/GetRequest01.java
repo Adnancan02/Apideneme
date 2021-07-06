@@ -24,7 +24,7 @@ Oldugunu test edin.
         String url = "https://restful-booker.herokuapp.com/booking/3";
         //2- expected result olustur...(bu test icin gerek yok)
 //burada bizden body de gelen reposu assert etmemiz beklenmemistir.
-// bu sebeple bu adima gerek yok
+// bu sebeple bu adima gerek yok//
 
         //3-request gönder
         Response response = given().
